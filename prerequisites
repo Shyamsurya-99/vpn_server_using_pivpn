@@ -3,3 +3,5 @@
 2)For storage, I suggest using a 32GB class 10 microSD card. You can find one like this: [insert URL here]. Additionally, you will need a microSD card reader to initially set up the Raspberry Pi OS.
 
 3)Having a keyboard and monitor connected to the Raspberry Pi is optional for this tutorial.
+
+4)Since our project is for wireless connection oriented we are going to have a router for port forwarding.
