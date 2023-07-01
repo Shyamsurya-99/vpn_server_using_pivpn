@@ -1,0 +1,12 @@
+1) Install Raspberry PI OS Lite (32-bit)-Download and install the Raspberry Pi Imager: https://www.raspberrypi.com/software/ – v1.7.1 as of the writing of this article.
+ 
+2)Install putty-install putty here from this website: https://www.putty.org/
+
+3)Install pivpn- curl -L https://install.pivpn.io | bash
+use the above command to install pivpn from terminal
+
+4)Install winscp-After you download, install, and launch WinSCP, you’ll be prompted to connect to a server Change the File Protocol to SCP:  https://winscp.net/eng/docs/guide_install
+
+5)install wireguard client software- this is to operate the vpn in windows:  https://www.wireguard.com/install/
+
+6)install wireguard client app- this is to operate the vpn in phone:  https://www.wireguard.com/install/
